@@ -1,2 +1,2 @@
-# Vimrc Setup
-A very basic vimrc setup feel free to modify it as need be. 
+# My Personal .Vimrc 
+A very simple .vimrc setup feel free to use it as you see fit. 
