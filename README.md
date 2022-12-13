@@ -1,10 +1,8 @@
 ![Untitled design](https://user-images.githubusercontent.com/120442663/207262319-3e507344-2c0a-4dca-adbc-6679817c1ea3.png)
 
-
-A very simple .vimrc setup feel free to use it as you see fit. 
+.vimrc is my personal vim configuration, which includes the essentials to enjoy vim.
 
 # Features
-Vim5 and later versions support syntax highlighting. 
 
 - line numbers
 - syntax highlighting
@@ -18,7 +16,10 @@ Vim5 and later versions support syntax highlighting.
 - Spellcheck (American English)
 - Mouse usage (all modes)
 
-Additional Commands that are currently turned off but available
+Note: Vim5 and later versions support syntax highlighting. 
+
+# Additional Features
+Thes features are available but currently turned off
 
 - Show (partial) command in status line.
 - Do case insensitive matching
