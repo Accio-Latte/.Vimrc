@@ -1,4 +1,5 @@
-![Untitled design](https://user-images.githubusercontent.com/120442663/207262319-3e507344-2c0a-4dca-adbc-6679817c1ea3.png)
+![Vimrc_Banner](https://user-images.githubusercontent.com/120442663/207273978-c86f5f88-e65f-4b62-8f94-d63f2d5b0e65.png)
+
 
 .vimrc is my personal vim configuration, which includes the essentials to enjoy vim.
 
