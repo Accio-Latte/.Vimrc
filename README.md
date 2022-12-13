@@ -1,2 +1,2 @@
-# Vim Setup
-A very basic vim setup feel free to modify it as need be. 
+# Vimrc Setup
+A very basic vimrc setup feel free to modify it as need be. 
