@@ -4,7 +4,7 @@
 A very simple .vimrc setup feel free to use it as you see fit. 
 
 # Features
-- Vim5 and later versions support syntax highlighting. 
+Vim5 and later versions support syntax highlighting. 
 
 - line numbers
 - syntax highlighting
